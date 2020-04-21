@@ -31,5 +31,13 @@ public class LoopConcept {
 		
 		System.out.println("==THE END, Thank you=====");
 	}
-
 }
+//====TAKE AWAY FROM THIS=============================================================
+/**
+* For Loop is used for Iteration purpose
+* while loop have DisAdvantage - Can go to infinite loop, if Increament/ Decreament not defined
+* 
+* 
+* 
+*/
+
