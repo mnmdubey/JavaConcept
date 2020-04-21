@@ -47,7 +47,7 @@ public class DataType {
 }
 //====TAKE AWAY FROM THIS=============================================================
 /**
- * 
+ * String is NOT only Data Type, but this is also a Class.
  * 
  * 
  * 
