@@ -1,10 +1,9 @@
 package basicJava_Concept;
 
 /**
- * @author NaveenKhunteta
- * Created Date: Dec 25th, 2019
- * mail me at naveenanimation20@gmail.com in case of any PR or query
- * Licensed under NaveenAutomation Labs
+ * @author Manoranjan Dubey
+ * Last Updated On: 21-Apr-2020
+ * mail me at mnmdubey@gmail.com in case of any query
  */
 
 import java.io.FileInputStream;
@@ -58,7 +57,7 @@ public int getRowCount(String sheetName) {
 /**
  * Code has been updated as per new POI version - 4.x.x
  * 
- * @author NaveenKhunteta
+ * @author Manoranjan Dubey
  * @param sheetName
  * @param colNum
  * @param rowNum
@@ -135,7 +134,7 @@ public String getCellData(String sheetName, String colName, int rowNum) {
 /**
  * Code has been updated as per new POI version - 4.x.x
  * 
- * @author NaveenKhunteta
+ * @author Manoranjan Dubey
  * @param sheetName
  * @param colNum
  * @param rowNum
