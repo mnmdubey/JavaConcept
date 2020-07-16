@@ -10,6 +10,7 @@ public class StringManipulation {
 		int strSize = str.length();
 		System.out.println("strSize:"+strSize);
 		System.out.println("-------------------------------------");
+		System.out.println("-------------------------------------");
 		System.out.println("charAt:"+str.charAt(0));
 		System.out.println("charAt:"+str.charAt(1));
 		System.out.println("charAt:"+str.charAt(2));
